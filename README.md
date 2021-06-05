@@ -7,6 +7,8 @@ Written by [@horsto](https://github.com/horsto) with input from me and Phil
 
 **Timer details:**
 
+The timer will loop through the following intervals indefinitely, but can be paused at any time by pressing the BOOT button on the QT Py. Press the same button again to continue the timer from where it left off. To reset the timer, press the RST button on the QT Py.
+
 | Interval      | Duration  | LED colour|
 |:--------------|:----------|:----------|
 | Focus (1/4)   | 25 min    | Yellow    |
